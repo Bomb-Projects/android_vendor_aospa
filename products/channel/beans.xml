@@ -10,4 +10,5 @@
   <project path="kernel/motorola/sdm632" name="Bomb-Projects/kernel_motorola_sdm632" remote="github" revision="vauxite" />
   <project path="vendor/motorola/channel" name="Bomb-Projects/vendor_motorola_channel" remote="github" revision="vauxite" />
   <project path="kernel/motorola/kernel-headers" name="Bomb-Projects/kernel_motorola_kernel-headers" remote="github" revision="vauxite" />
+  <project path="hardware/motorola" name="AOSPA/android_hardware_motorola" remote="github" revision="uvite" />
 </manifest>
