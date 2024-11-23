@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--
+     SPDX-FileCopyrightText: 2024 Paranoid Android
+     SPDX-License-Identifier: Apache-2.0
+-->
+<manifest>
+  <include name="../platforms/msm8953.xml" />
+
+  <project path="device/motorola/channel" name="Bomb-Projects/device_motorola_channel" remote="github" revision="vauxite" />
+  <project path="kernel/motorola/sdm632" name="Bomb-Projects/kernel_motorola_sdm632" remote="github" revision="vauxite" />
+  <project path="vendor/motorola/channel" name="Bomb-Projects/vendor_motorola_channel" remote="github" revision="vauxite" />
+  <project path="kernel/motorola/kernel-headers" name="Bomb-Projects/kernel_motorola_kernel-headers" remote="github" revision="vauxite" />
+</manifest>
